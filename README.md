@@ -7,3 +7,7 @@ for business management decision support.
 The goal of this analysis is to use patient data to estimate the average medical care expenses 
 for such population segments. These estimates can be used to create actuarial tables that set the price of yearly 
 premiums higher or lower, depending on the expected treatment costs.
+3.Gan project:
+we were required to create and train a Deep Convolutional
+Generative Adversarial Network (DCGAN) to generate faces using the CelebA dataset.
+The dataset contains more than 200,000 photos of celebrity faces.
