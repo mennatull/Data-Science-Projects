@@ -11,3 +11,6 @@ premiums higher or lower, depending on the expected treatment costs.
 we were required to create and train a Deep Convolutional
 Generative Adversarial Network (DCGAN) to generate faces using the CelebA dataset.
 The dataset contains more than 200,000 photos of celebrity faces.
+4. RBM Project: 
+Implement a Restricted Boltzmann Machine (RBM) that learns the latent features of the
+Fashion MNIST dataset
